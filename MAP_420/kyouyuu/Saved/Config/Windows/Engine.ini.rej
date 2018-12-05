@@ -1,0 +1,9 @@
+diff a/MAP_420/kyouyuu/Saved/Config/Windows/Engine.ini b/MAP_420/kyouyuu/Saved/Config/Windows/Engine.ini	(rejected hunks)
+@@ -37,4 +37,7 @@
+ [MagicLeapSettings]
+ WindowMirrorMode=1
+ 
++[/Script/UnrealEd.EditorEngine]
++FlipNormalMapGreenChannel=False
++
+ 
